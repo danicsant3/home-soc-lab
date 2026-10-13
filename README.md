@@ -8,6 +8,7 @@ A home security lab built on one mini PC. I'm building a small company network o
 |---|---|---|
 | 1 | [Proxmox install](docs/01-proxmox-install.md) | Done |
 | 2 | [Virtual networks and OPNsense firewall](docs/02-network-firewall.md) | Done |
+| 3 | Wazuh SIEM | Next |
 | 4 | Kali and first attack with detection | Planned |
 | 5 | Active Directory domain | Planned |
 
